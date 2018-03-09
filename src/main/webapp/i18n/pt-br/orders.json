@@ -1,0 +1,26 @@
+
+{
+    "uranappApp": {
+        "orders" : {
+            "home": {
+                "title": "Orders",
+                "createLabel": "Criar novo Orders",
+                "createOrEditLabel": "Criar ou editar Orders"
+            },
+            "created": "Um novo Orders foi criado com o identificador {{ param }}",
+            "updated": "Um Orders foi atualizado com o identificador {{ param }}",
+            "deleted": "Um Orders foi deletado com o identificador {{ param }}",
+            "delete": {
+                "question": "Tem certeza de que deseja excluir Orders {{ id }}?"
+            },
+            "detail": {
+                "title": "Orders"
+            },
+            "order_number": "Order Number",
+            "cust_id": "Cust Id",
+            "status": "Status",
+            "created_on": "Created On",
+            "customer_id": "Customer Id"
+        }
+    }
+}
