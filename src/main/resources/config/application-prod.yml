@@ -27,7 +27,7 @@ spring:
             enabled: false
     data:
         mongodb:
-            uri: mongodb://localhost:27017
+            uri: mongodb://172.17.0.3:27017
             database: uranapp
     mail:
         host: localhost
